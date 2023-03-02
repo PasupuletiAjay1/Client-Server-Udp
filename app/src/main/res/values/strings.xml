@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="send">Send</string>
+    <string name="sentText">sent Text</string>
+    <string name="clientIns">Type something and click on send</string>
+    <string name="receivedText">Wait for Client to send Message</string>
+    <string name="context">Select Client to send message\nSelect Server to receive message</string>
+</resources>
